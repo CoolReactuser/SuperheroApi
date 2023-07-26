@@ -1,5 +1,5 @@
 {
-Superhero:
+Superhero:{
 "superhero1"{
 "Image":"https://www.cnet.com/a/img/resize/ea66ddc9276eef2884da221adc70ed1cf1545951/hub/2021/10/16/11804578-0dbc-42af-bcd1-3bc7b1394962/the-batman-2022-teaser-poster-batman-01-promo.jpg?auto=webp&fit=crop&height=675&width=1200",
 "Batman/Bruce Wayne",
@@ -12,6 +12,6 @@ Superhero:
 "Superpowers": Durability, Hacking, Gliding, Endurance, Stealth, Stamina, Reflexes, Weapon master,
 
 }
-
+}
 
 } 
