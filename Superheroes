@@ -9,7 +9,8 @@ Superhero:
 "Combat":100/100,
 "Durability":78/100,
 "Tier": 5/5,
-"Superpowers": Durability, Hacking, Gliding, Endurance, Stealth, Stamina, Reflexes, 
+"Superpowers": Durability, Hacking, Gliding, Endurance, Stealth, Stamina, Reflexes, Weapon master,
+
 }
 
 
