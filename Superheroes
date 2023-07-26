@@ -1,0 +1,12 @@
+{
+Superhero:
+"superhero1"{
+"Batman/Bruce Wayne"
+"Intelligence":90/100
+"Strength":54/100
+"Speed":17/100
+"Combat":100/100
+"Durability":78/100
+"Tier": 5/5
+}
+} 
