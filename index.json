@@ -9,9 +9,23 @@
 "Combat":100,
 "Durability":78, 
 "Tier": 5,
-"Superpowers": Durability Hacking Gliding Endurance Stealth Stamina Reflexes Weapon master,
+  "Health":100,
+
 
 }
-}
+ 
 
+    
+}
+ "superhero2"{
+"Image":"https://images5.alphacoders.com/523/thumb-1920-523395.jpg",
+  "Ironman/Tony Stark",
+  "Intelligence":90,
+  "Strength":75
+  
+  
+
+
+  
+ }
 } 
