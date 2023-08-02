@@ -30,7 +30,7 @@
 },
   "superhero3":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
-"Name":Hulk or Bruce Banner",
+"Name":"Hulk or Bruce Banner",
 "Intelligence":65,
 "Strength":99,
 "Speed":25,
