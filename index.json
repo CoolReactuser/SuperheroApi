@@ -5,7 +5,7 @@
 "Batman/Bruce Wayne",
 "Intelligence":90,
 "Strength":54,
-"Speed":17,
+"Speed":100,
 "Combat":100,
 "Durability":78, 
 "Tier": 5,
@@ -19,13 +19,14 @@
 }
  "superhero2"{
 "Image":"https://images5.alphacoders.com/523/thumb-1920-523395.jpg",
-  "Ironman/Tony Stark",
-  "Intelligence":90,
-  "Strength":75
-  
-  
-
-
-  
- }
+"Iron man/Tony Stark",
+"Intelligence":90,
+"Strength":75,
+"Speed":100,
+"Combat":100,
+"Durability":98, 
+"Tier": 5,
+"Health":200,
+}
+   
 } 
