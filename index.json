@@ -9,14 +9,14 @@
 "Combat":99,
 "Durability":78, 
 "Tier": 5,
-  "Health":100,
+  "Health":100
 
 
-}
+},
  
 
     
-}
+
  "superhero2":{
 "Image":"https://images5.alphacoders.com/523/thumb-1920-523395.jpg",
 "Iron man/Tony Stark",
@@ -26,8 +26,8 @@
 "Combat":99,
 "Durability":98, 
 "Tier": 5,
-"Health":200,
-}
+"Health":200
+},
   "superhero3":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Hulk/Bruce Banner",
@@ -37,8 +37,8 @@
 "Combat":99,
 "Durability":98, 
 "Tier": 5,
-"Health":300,
-}
+"Health":300
+},
     "superhero4":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Flash/Barry Allen",
@@ -48,8 +48,8 @@
 "Combat":40,
 "Durability":30, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
     "superhero5":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Spider-man/Peter Parker",
@@ -59,8 +59,8 @@
 "Combat":99,
 "Durability":98, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
        "superhero6":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Doctor Strange/Steven Strange",
@@ -70,8 +70,8 @@
 "Combat":99,
 "Durability":98, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
       "superhero7":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 "Superman/Kal-el",
@@ -81,8 +81,8 @@
 "Combat":99,
 "Durability":98, 
 "Tier": 5,
-"Health":200,
-}
+"Health":200
+},
          "superhero8":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 "Vision",
@@ -92,8 +92,8 @@
 "Combat":99,
 "Durability":98, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
         "superhero9":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Thor/Odision",
@@ -103,8 +103,8 @@
 "Combat":99,
 "Durability":98, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
            "superhero10":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Ant-man/Scott Lang",
@@ -114,8 +114,8 @@
 "Combat":99,
 "Durability":15, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
               "superhero11":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Hawkeye/Clint Barton",
@@ -125,8 +125,8 @@
 "Combat":99,
 "Durability":15, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
                  "superhero12":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Aquaman/Arthur Curry",
@@ -136,8 +136,8 @@
 "Combat":99,
 "Durability":30, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
                     "superhero13":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Black Panther/King T'Challa",
@@ -147,8 +147,8 @@
 "Combat":99,
 "Durability":99, 
 "Tier": 5,
-"Health":100,
-}
+"Health":100
+},
                        "superhero14":{
 "Image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/The-Hulk.The-Incredible-Hulk.webp",
 " Captain America/Steve Rogers",
@@ -158,6 +158,9 @@
 "Combat":99,
 "Durability":15, 
 "Tier": 5,
-"Health":100,
+"Health":100
 }
+                 
+                
 } 
+}
